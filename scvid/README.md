@@ -2,7 +2,7 @@
 
 ## About
 
-This application is capable of creating videos from screecnshots taken automaticly in given perion of time. Also, it can add custom audio to the produced video files.
+This application is capable of creating videos from screen shots taken automatically in given period of time. Also, it can add custom audio to the produced video files.
 
 ## Installation
 
